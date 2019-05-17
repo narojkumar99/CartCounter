@@ -3,7 +3,7 @@
 # CartCounter
 Add a cart icon with item counter to the Toolbar. You can increment the counter based on the number of unique items the user has in the shopping cart. In addition, you can animate the icon when there is an increment or decrement.
 * Customize the cart icon and icon color
-* Animate the cart icon on changing value
+* Animate the cart icon on changin value
 
 ## Download
 Grab the latest version via Maven:
